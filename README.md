@@ -34,7 +34,7 @@ Segmented 10,000+ customers using RFM modeling to identify high-value and at-ris
 ### 📌 [R-Food-Delivery & Ride-Hailing-Forecasting-Demand-Marketplace Optimization – Grab Vietnam](https://github.com/patricknn0702/Marketplace-Forecasting-Optimization)  
 Analyzed food delivery demand trends and proposed spend reallocation strategies using regression & forecasting models.
 
-### 📌 [SQL-Product-Performance-Analysis – Yes4All](https://github.com/patricknn0702/SQL_Product-Sales-Analysis-and-Forecast) 
+### 📌 [SQL-Product-Performance-Analysis – Yes4All](https://github.com/patricknn0702/SQL-Product-Sales-Optimization-Yes4All) 
 Analyzed 250,000+ transactions from Amazon & Walmart using PostgreSQL. Built a Power BI dashboard to enhance inventory and pricing strategy.
 
 ### 📌 [Google-Sheets-Media-Operation-Campaign-Analytics-Dashboard – L'Oréal](https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046) 
