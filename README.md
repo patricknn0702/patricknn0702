@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Patrick Nguyen 👋  
+*Business Strategy & Operation Analyst | Growth Strategist | Growth Hack Learner*
 
-<!--
-**patricknn0702/patricknn0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analytics graduate student at Mercy University, NYC 🇺🇸 with 4+ years of experience in data-driven marketing and e-commerce optimization. I thrive at the intersection of strategy, analytics, and storytelling — turning data into action and insights into growth.
 
-Here are some ideas to get you started:
+I’ve worked with global brands like **L'Oréal, Spotify, Hansgrohe, and Heineken**, delivering results through performance marketing, growth experimentation, and real-time analytics dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Do
+- **Business & Marketing Analytics** — Optimize ROAS, CAC, and retention through deep customer insights.
+- **Growth Strategy & Product Insights** — Forecasting, segmentation, A/B testing, and cohort analysis.
+- **Data Analytics** — SQL pipelines, ETL automation, and BI dashboards in Power BI and Looker Studio.
+
+---
+
+## 🔧 Technical Skills
+
+| Category                      | Tools & Languages                                         |
+|------------------------------|------------------------------------------------------------|
+| **Programming & Databases**  | SQL (PostgreSQL, BigQuery), Python, R                     |
+| **Data Visualization**       | Power BI, Tableau, Looker Studio, Google Sheets           |
+| **Analytics & Modeling**     | A/B Testing, Cohort Analysis, RFM Segmentation, Forecasting |
+| **Data Handling**            | ETL, Data Cleaning, Excel (Advanced)                      |
+| **Marketing Platforms**      | Meta, Google, TikTok, Amazon, Shopee, Lazada              |
+
+---
+
+## 📁 Highlight Projects
+
+### 📌 [Python_RFM_Analysis](https://github.com/patricknn0702/Python_RFM_Analysis)
+Segmented 10,000+ customers using RFM modeling to identify high-value and at-risk groups. Helped inform tailored retention campaigns.
+
+### 📌 [SQL Product Performance Analysis – Yes4All](https://github.com/patricknn0702/Yes4All_SQL_Analysis) *(Private/Upcoming)*
+Analyzed 250,000+ transactions from Amazon & Walmart using PostgreSQL. Built a Power BI dashboard to enhance inventory and pricing strategy.
+
+### 📌 [Growth Analytics Dashboard – L'Oréal](https://github.com/patricknn0702/Loreal_Ecom_Dashboard) *(Private/Case Study)*
+Developed real-time dashboards to track paid media ROI. Improved media effectiveness by 45% and automated reporting for cross-functional teams.
+
+---
+
+## 📚 Education
+🎓 *Master of Science in Business Analytics* – Mercy University, NYC (GPA: 4.0)  
+---
+
+## ✨ Fun Fact
+After work, you'll find me traveling on the weekend to new places, curating Vietnamese coffee, or exploring NYC on foot while A/B testing my favorite pho spots 😄
+
+---
+
+## 📬 Let's Connect
+📫 Email: nguyenngocphuoc0702@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/phuocnguyenngoc)  
+💻 [GitHub](https://github.com/patricknn0702)
+
+---
