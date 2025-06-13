@@ -28,16 +28,16 @@ I’ve worked with global brands like **L'Oréal, Spotify, Hansgrohe, and Heinek
 
 ## 📁 Highlight Projects
 
-### 📌 [Python_RFM_Analysis](https://github.com/patricknn0702/Python_RFM_Analysis-Customer-segmentation)
+### 📌 [Python-RFM-Analysis](https://github.com/patricknn0702/Python_RFM_Analysis-Customer-segmentation)
 Segmented 10,000+ customers using RFM modeling to identify high-value and at-risk groups. Helped inform tailored retention campaigns.
 
-### 📌 [R-Food Delivery & Ride Hailing-Forecasting Demand-Marketplace Optimization – Grabfood Vietnam]([https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046](https://github.com/patricknn0702/R-Food-Delivery-Ride-Hailing-Forecasting-Demand-Marketplace-Optimization))
-Forecasted demand and optimized investment strategy for GrabFood Vietnam using regression and time series modeling. Identified high-performing merchant categories and proposed actionable reallocations to improve booking efficiency and GMV growth
+### 📌 [R-Food-Delivery & Ride-Hailing-Forecasting-Demand-Marketplace Optimization – Grab Vietnam](https://github.com/patricknn0702/Marketplace-Forecasting-Optimization)  
+Analyzed food delivery demand trends and proposed spend reallocation strategies using regression & forecasting models.
 
-### 📌 [SQL Product Performance Analysis – Yes4All](https://github.com/patricknn0702/SQL_Product-Sales-Analysis-and-Forecast) 
+### 📌 [SQL-Product-Performance-Analysis – Yes4All](https://github.com/patricknn0702/SQL_Product-Sales-Analysis-and-Forecast) 
 Analyzed 250,000+ transactions from Amazon & Walmart using PostgreSQL. Built a Power BI dashboard to enhance inventory and pricing strategy.
 
-### 📌 [Media Operation Campaign Analytics Dashboard – L'Oréal](https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046) 
+### 📌 [Media-Operation-Campaign-Analytics-Dashboard – L'Oréal](https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046) 
 Developed real-time dashboards to track paid media ROI. Improved media effectiveness by 45% and automated reporting for cross-functional teams.
 
 ---
