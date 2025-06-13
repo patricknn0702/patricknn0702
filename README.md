@@ -28,13 +28,13 @@ I’ve worked with global brands like **L'Oréal, Spotify, Hansgrohe, and Heinek
 
 ## 📁 Highlight Projects
 
-### 📌 [Python_RFM_Analysis](https://github.com/patricknn0702/Python_RFM_Analysis-Customer-segmentation)
+### 📌 [Python_RFM_Analysis](https://github.com/patricknn0702/Python_RFM_Analysis-Customer-segmentation) *(Public)*
 Segmented 10,000+ customers using RFM modeling to identify high-value and at-risk groups. Helped inform tailored retention campaigns.
 
-### 📌 [SQL Product Performance Analysis – Yes4All](https://github.com/patricknn0702/SQL_Product-Sales-Analysis-and-Forecast) *(Private/Upcoming)*
+### 📌 [SQL Product Performance Analysis – Yes4All](https://github.com/patricknn0702/SQL_Product-Sales-Analysis-and-Forecast) *(Public/Upcoming)*
 Analyzed 250,000+ transactions from Amazon & Walmart using PostgreSQL. Built a Power BI dashboard to enhance inventory and pricing strategy.
 
-### 📌 [Growth Analytics Dashboard – L'Oréal](https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046) *(Private/Case Study)*
+### 📌 [Media Operation Campaign Analytics Dashboard – L'Oréal](https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046) *(Public/Case Study)*
 Developed real-time dashboards to track paid media ROI. Improved media effectiveness by 45% and automated reporting for cross-functional teams.
 
 ---
