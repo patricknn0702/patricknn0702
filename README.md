@@ -9,7 +9,7 @@ I’ve worked with global brands like **L'Oréal, Spotify, Hansgrohe, and Heinek
 
 ## 💼 What I Do
 - **Business & Marketing Analytics** — Optimize ROAS, CAC, and retention through deep customer insights.
-- **Growth Strategy & Product Insights** — Forecasting, segmentation, A/B testing, and cohort analysis.
+- **Growth Strategy & Product Insights** — Go to market strategy, Forecasting, segmentation, A/B testing, and cohort analysis.
 - **Data Analytics** — SQL pipelines, ETL automation, and BI dashboards in Power BI and Looker Studio.
 
 ---
