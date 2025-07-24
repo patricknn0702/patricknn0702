@@ -7,14 +7,14 @@ I’ve worked with global brands like **L'Oréal, Spotify, Hansgrohe, and Heinek
 
 ---
 
-## 💼 What I Do
+## What I Do
 - **Business & Marketing Analytics** — Optimize ROAS, CAC, and retention through deep customer insights.
 - **Growth Strategy & Product Insights** — Go to market strategy, Forecasting, segmentation, A/B testing, and cohort analysis.
 - **Data Analytics** — SQL pipelines, ETL automation, and BI dashboards in Power BI and Looker Studio.
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 | Category                      | Tools & Languages                                         |
 |------------------------------|------------------------------------------------------------|
@@ -26,23 +26,23 @@ I’ve worked with global brands like **L'Oréal, Spotify, Hansgrohe, and Heinek
 
 ---
 
-## 📁 Highlight Projects
+## Highlight Projects
 
-### 📌 [Python-RFM-Analysis](https://github.com/patricknn0702/Python_RFM_Analysis-Customer-segmentation)
+### [Python-RFM-Analysis](https://github.com/patricknn0702/Python_RFM_Analysis-Customer-segmentation)
 Segmented 10,000+ customers using RFM modeling to identify high-value and at-risk groups. Helped inform tailored retention campaigns.
 
-### 📌 [R-Food-Delivery & Ride-Hailing-Forecasting-Demand-Marketplace Optimization – Grab Vietnam](https://github.com/patricknn0702/Marketplace-Forecasting-Optimization)  
+### [R-Food-Delivery & Ride-Hailing-Forecasting-Demand-Marketplace Optimization – Grab Vietnam](https://github.com/patricknn0702/Marketplace-Forecasting-Optimization)  
 Analyzed food delivery demand trends and proposed spend reallocation strategies using regression & forecasting models.
 
-### 📌 [SQL-Product-Performance-Analysis – Yes4All](https://github.com/patricknn0702/SQL-Product-Sales-Optimization-Yes4All) 
+### [SQL-Product-Performance-Analysis – Yes4All](https://github.com/patricknn0702/SQL-Product-Sales-Optimization-Yes4All) 
 Analyzed 250,000+ transactions from Amazon & Walmart using PostgreSQL. Built a Power BI dashboard to enhance inventory and pricing strategy.
 
-### 📌 [Google-Sheets-Media-Operation-Campaign-Analytics-Dashboard – L'Oréal](https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046) 
+### [Google-Sheets-Media-Operation-Campaign-Analytics-Dashboard – L'Oréal](https://docs.google.com/spreadsheets/d/102y_vb5iuKFxNSFXmrxBq_dDC4ivvSMU_xkzS0sfGpU/edit?gid=1197517046#gid=1197517046) 
 Developed real-time dashboards to track paid media ROI. Improved media effectiveness by 45% and automated reporting for cross-functional teams.
 
 ---
 
-## 📚 Education
+## Education
 🎓 *Master of Science in Business Analytics* – Mercy University, NYC (GPA: 4.0)  
 ---
 
